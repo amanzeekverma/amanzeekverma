@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amanzeekverma
+- 👋 Hi, I’m @amanzeekverma, Software Engineer by profession. I live in Chaos Engineering ambience.
 - 👀 I’m interested in Random Computer Stuffs from coding to concepts. Performance Engineering is main bread provider, but ofcourse I attempt everything.
 - 🌱 I’m currently learning Kotlin, Python (never ending) and trying to get away from Java but I love JVM too much.
 - 💞️ I’m looking to collaborate on random stuffs
